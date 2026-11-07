@@ -1,7 +1,7 @@
 # FileLink downloads
 
 Installer files for [FileLink](https://filelinkhub.vercel.app): the Desktop App, the Setup wizard and the MSI.
-Download them from the [latest release](../../releases/latest), or from the Connect window on the website.
+The files are in the root of this repo. Download them from the Connect window on the website, or directly from here.
 
 | File | What it is |
 | --- | --- |
